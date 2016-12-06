@@ -5,4 +5,7 @@ Day 2 was really awesome and I wasn’t confused. However in day 3 when we got t
 I should practice more. I wish the basics for a beginner where also practiced in the class with more details, cause they are all new to me.
 
 Learning journal day 5:
-First week went really well. On Tuesday I freaked out about coding cause I did not get what I needed to do. But it went better the following days. I learnt about pseudo coding and how to put arithmetics together. Also git hub seems very interesting and useful. I learnt a lot about it this week. It is getting more tangible to me as time is going. Arrays, loops and functions are cool stuff. Cant wait for the second week. I need to work more on CSS. 
+First week went really well. On Tuesday I freaked out about coding cause I did not get what I needed to do. But it went better the following days. I learnt about pseudo coding and how to put arithmetics together. Also git hub seems very interesting and useful. I learnt a lot about it this week. It is getting more tangible to me as time is going. Arrays, loops and functions are cool stuff. Cant wait for the second week. I need to work more on CSS.
+
+
+Day 6 so far the hardest day for me. I learned some about DOM but I really have not got the logic of putting codes in JS to be able to be shown in HTML, especially, sum and if it is 2 columns. hope will be worked on in the class. 
