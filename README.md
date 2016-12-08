@@ -8,4 +8,9 @@ Learning journal day 5:
 First week went really well. On Tuesday I freaked out about coding cause I did not get what I needed to do. But it went better the following days. I learnt about pseudo coding and how to put arithmetics together. Also git hub seems very interesting and useful. I learnt a lot about it this week. It is getting more tangible to me as time is going. Arrays, loops and functions are cool stuff. Cant wait for the second week. I need to work more on CSS.
 
 
-Day 6 so far the hardest day for me. I learned some about DOM but I really have not got the logic of putting codes in JS to be able to be shown in HTML, especially, sum and if it is 2 columns. hope will be worked on in the class. 
+Day 6 so far the hardest day for me. I learned some about DOM but I really have not got the logic of putting codes in JS to be able to be shown in HTML, especially, sum and if it is 2 columns. hope will be worked on in the class.
+
+
+Day 8
+Probably the hardest days so far for me. But the good thing is after 2 days I got the idea how to start writing codes, basically do small parts when it is done move to next step. I learned constructor, render, event, how to make html in JS.
+SO far so good. 
