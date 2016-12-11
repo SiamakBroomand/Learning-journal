@@ -13,4 +13,7 @@ Day 6 so far the hardest day for me. I learned some about DOM but I really have 
 
 Day 8
 Probably the hardest days so far for me. But the good thing is after 2 days I got the idea how to start writing codes, basically do small parts when it is done move to next step. I learned constructor, render, event, how to make html in JS.
-SO far so good. 
+SO far so good.
+
+Day 10
+I learnt useful html and css patterns, plus organizing wireframes. In addition, I learned to be focused on details, cause I was working on wireframes for more than 3 hours but nothing changed, I could not find what was wrong but it was only because I didnt link html and css pages. The hardest part in my mind is putting boxes or elements wherever you want with keeping the desired sizes. Cant wait to learn more about css. I also figured out the best way of learning coding is to see sample codes and read more about details before starting your project. 
