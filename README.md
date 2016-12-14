@@ -16,4 +16,7 @@ Probably the hardest days so far for me. But the good thing is after 2 days I go
 SO far so good.
 
 Day 10
-I learnt useful html and css patterns, plus organizing wireframes. In addition, I learned to be focused on details, cause I was working on wireframes for more than 3 hours but nothing changed, I could not find what was wrong but it was only because I didnt link html and css pages. The hardest part in my mind is putting boxes or elements wherever you want with keeping the desired sizes. Cant wait to learn more about css. I also figured out the best way of learning coding is to see sample codes and read more about details before starting your project. 
+I learnt useful html and css patterns, plus organizing wireframes. In addition, I learned to be focused on details, cause I was working on wireframes for more than 3 hours but nothing changed, I could not find what was wrong but it was only because I didnt link html and css pages. The hardest part in my mind is putting boxes or elements wherever you want with keeping the desired sizes. Cant wait to learn more about css. I also figured out the best way of learning coding is to see sample codes and read more about details before starting your project.
+
+Day 11
+Well, this is a hard week and the week of do something without knowing it. It is a little bit frustrating to do something you have no idea about. I think this is a little weird. I should look more on learning on my own. I learnt some ideas about  constructor and event listener but still seem unknown.
