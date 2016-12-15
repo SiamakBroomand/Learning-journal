@@ -20,3 +20,6 @@ I learnt useful html and css patterns, plus organizing wireframes. In addition, 
 
 Day 11
 Well, this is a hard week and the week of do something without knowing it. It is a little bit frustrating to do something you have no idea about. I think this is a little weird. I should look more on learning on my own. I learnt some ideas about  constructor and event listener but still seem unknown.
+
+Day 13
+We learnt some good stuff about charts and local storage. A review on constructors. 
