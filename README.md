@@ -22,4 +22,7 @@ Day 11
 Well, this is a hard week and the week of do something without knowing it. It is a little bit frustrating to do something you have no idea about. I think this is a little weird. I should look more on learning on my own. I learnt some ideas about  constructor and event listener but still seem unknown.
 
 Day 13
-We learnt some good stuff about charts and local storage. A review on constructors. 
+We learnt some good stuff about charts and local storage. A review on constructors.
+
+Day 15
+A lot of stuff to manage in teamwork and handle everything together. The thing I learnt this week was basically to stick to what is scheduled as a group and achieve the set goals first. I also learnt a lot of good stuff about git. Project seems to be really interactive and useful as long as you are using what you have learnt and you want to see how to put stuff together to be able to achieve what you desire. 
